@@ -17,7 +17,7 @@ export default function Home() {
         <p className={styles.description}>lol</p>
       </main>
 
-      <footer className={styles.footer}>Powered by Mommy Milkers™</footer>
+      <footer className={styles.footer}>Powered by weed.</footer>
     </div>
   );
 }
